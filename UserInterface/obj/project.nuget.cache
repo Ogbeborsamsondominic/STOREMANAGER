@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uo19NeBIQcnydxVRLww5OyeU55+YNzYDQlles8wHQ3x3vGD72SDQLVd/9sf16slwHudlfyNgwj7Jrq/gMuWkzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ogbebor.S\\source\\repos\\week-10-Ogbeborsamsondominic\\week-10-Ogbeborsamsondominic\\UserInterface\\UserInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ogbebor.S\\.nuget\\packages\\google.api.commonprotos\\2.10.0\\google.api.commonprotos.2.10.0.nupkg.sha512",
+    "C:\\Users\\Ogbebor.S\\.nuget\\packages\\google.protobuf\\3.23.0\\google.protobuf.3.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
